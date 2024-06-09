@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+   font-family: Tahoma;
+  
+}
+
+.image {
+    width: 150px;
+    
+}
+
+.card {
+    width: 400px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 5px solid #ec719e;
+    background: #A2D2FF;
+    color: #000814;
+    text-shadow: 1px 1px purple;
+    box-shadow: 5px 1px 2px #ec719e ;
+}    
+
+.card:hover {
+    color: purple;
+}
